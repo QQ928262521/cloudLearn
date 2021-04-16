@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76c60c6b-13ff-440b-ad2a-a82051409d92" name="Default Changelist" comment="lsh---20210416---首次提交">
-      <changelist_data name="lsh" email="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,9 @@
         <option value="lsh" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="F:/gitRepository" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lyzd/cloud/PaymentMain001.java" root0="FORCE_HIGHLIGHTING" />
@@ -65,11 +67,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="F:/gitRepository" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20147194" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -143,7 +145,16 @@
       <workItem from="1618531938795" duration="2055000" />
       <workItem from="1618536401466" duration="2151000" />
       <workItem from="1618538591791" duration="12979000" />
+      <workItem from="1618577749323" duration="3307000" />
     </task>
+    <task id="LOCAL-00001" summary="lsh---20210416---首次提交">
+      <created>1618577869334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618577869334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,9 +170,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lsh---20210416---首次提交" />
     <option name="LAST_COMMIT_MESSAGE" value="lsh---20210416---首次提交" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
