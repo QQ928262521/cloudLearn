@@ -181,9 +181,8 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.2.3.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.2.3.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.6.3" level="project" />
-    <orderEntry type="library" name="Maven: org.example:cloud-api-commons:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="cloud-api-commons" />
     <orderEntry type="library" name="Maven: cn.hutool:hutool-all:5.1.0" level="project" />
-    <orderEntry type="library" name="Maven: org.example:cloud-provider-payment8001:1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.2.4.RELEASE" level="project" />
   </component>
 </module>
