@@ -1,1 +1,6 @@
 /springCloudLearn/.idea/*
+/.idea/.gitignore
+/.idea/cloudLearn.iml
+/.idea/encodings.xml
+/.idea/modules.xml
+/.idea/vcs.xml
